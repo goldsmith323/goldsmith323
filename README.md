@@ -1,9 +1,9 @@
+# Hossein Zargar
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ifylab/.github/main/profile/logo-dark.png">
   <img align="right" width="120" alt=".ify" src="https://raw.githubusercontent.com/ifylab/.github/main/profile/logo-light.png">
 </picture>
-
-# Hossein Zargar
 
 AI software developer and computational designer — agentic harnesses, visual programming,
 and engineering-automation tools.
