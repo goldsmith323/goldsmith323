@@ -23,7 +23,8 @@ const hossein = {
 
 - **[wireify](https://github.com/ifylab/wireify)** — your own Claude Code, live in Grasshopper.
   Stage inputs on a socket, say what the component should do; it converts in place into a stock
-  Python 3 component, and saved files carry no plugin dependency. On the Rhino Package Manager.
+  Python 3 component, and saved files carry no plugin dependency; since 0.3 each definition can
+  carry a companion web app that stays in step with the canvas. On the Rhino Package Manager.
 - **[skillmeld](https://github.com/ifylab/skillmeld)** — finds existing community Claude skills
   for a use case, security-scans them, and merges the best few into one tailored set. Composes
   existing skills rather than generating new ones.
