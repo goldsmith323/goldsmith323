@@ -26,9 +26,13 @@ const hossein = {
   Python 3 component, and saved files carry no plugin dependency; since 0.3 each definition can
   carry a companion web app that stays in step with the canvas; HALO is one, live at
   [halo.ifylab.dev](https://halo.ifylab.dev). On the Rhino Package Manager.
-- **[skillmeld](https://github.com/ifylab/skillmeld)** — finds existing community Claude skills
-  for a use case, security-scans them, and merges the best few into one tailored set. Composes
-  existing skills rather than generating new ones.
+- **[skillmeld](https://github.com/ifylab/skillmeld)** — finds existing community Agent Skills
+  for a use case, security-scans them, and merges the best few into one tailored set that installs
+  into Claude Code, Codex, Cursor, Gemini CLI, Copilot and the other agents that read the shared
+  skills folder. Composes existing skills rather than generating new ones.
+- **[robotic constructability](https://github.com/goldsmith323/Robotic-Constructability)** — an
+  interactive explorer for 999 robotically assembled CLT house designs, the open-source companion
+  to a peer-reviewed study. Live at [constructability.ifylab.dev](https://constructability.ifylab.dev).
 
 More at [ifylab.dev](https://ifylab.dev).
 
@@ -36,7 +40,5 @@ More at [ifylab.dev](https://ifylab.dev).
 
 - **[rhino_gh_mcp](https://github.com/goldsmith323/rhino_gh_mcp)** — an MCP exposing 30+ tools for
   driving Rhino 3D and Grasshopper from an LLM.
-- **[Robotic-Constructability](https://github.com/goldsmith323/Robotic-Constructability)** —
-  incorporating robotic constructability into computational design optimization.
 
 Based in New York. Contact: [LinkedIn](https://www.linkedin.com/in/hosseinzargar/) · ify@ifylab.dev
